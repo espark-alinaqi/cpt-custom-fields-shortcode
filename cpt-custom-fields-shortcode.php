@@ -3,7 +3,7 @@
 Plugin Name: CPT Custom fields shortcode
 Description: Use custom fields as shortcode in post content
 Plugin URI:  http://syedalinaqihasni.com/wordpress-plugins/custom-fields-shortcode/
-Version:     0.1
+Version:     1.0
 Author:      Syed Ali Naqi Hasni
 Author URI:  http://syedalinaqihasni.com
 */
